@@ -1,6 +1,6 @@
 {
-  "name": "adrian-merkandi/active",
-  "description": "The helper class for Laravel applications to get active class base on current route",
+  "name": "adrianmerk/laravelactive",
+  "description": "The helper class for Laravel applications to get active class base on current route for Laravel 11",
   "keywords": [
     "laravel",
     "active",
@@ -9,6 +9,10 @@
   "license": "MIT",
   "homepage": "https://www.hieule.info/tag/laravel-active/",
   "authors": [
+    {
+      "name": "Adrian Olow",
+      "email": "adrianolowcodes@gmail.com"
+    },
     {
       "name": "Hieu Le",
       "email": "letrunghieu.cse09@gmail.com",
