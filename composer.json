@@ -1,5 +1,5 @@
 {
-  "name": "hieu-le/active",
+  "name": "adrian-merkandi/active",
   "description": "The helper class for Laravel applications to get active class base on current route",
   "keywords": [
     "laravel",
@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": "^8.0",
-    "laravel/framework": "^8.0|^9.0"
+    "laravel/framework": "^8.0|^9.0|^10.0|^11.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.3",
