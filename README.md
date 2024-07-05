@@ -1,4 +1,4 @@
-Active for Laravel
+Fork of Active for Laravel
 ======
 [![Build Status](https://travis-ci.org/letrunghieu/active.png?branch=master)](https://travis-ci.org/letrunghieu/active)
 [![Latest Stable Version](https://poser.pugx.org/hieu-le/active/v/stable.svg)](https://packagist.org/packages/hieu-le/active)
@@ -48,6 +48,8 @@ See: [How to use Active](https://www.hieule.info/tag/laravel-active/)
 
 ## Changelog:
 
+* v11.0 support Laravel 11
+* v10.0 support Laravel 10
 * v7.0: support Laravel 7 and start using the same marjor version with Laravel
 * v4.0: support Laravel 6 and PHPUnit 8
 * v3.5: support Laravel 5.5.x and PHPUnit 6
