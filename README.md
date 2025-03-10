@@ -1,4 +1,4 @@
-Fork of Active for Laravel 11
+Fork of Active for Laravel 12
 ======
 [![Build Status](https://travis-ci.org/letrunghieu/active.png?branch=master)](https://travis-ci.org/letrunghieu/active)
 [![Latest Stable Version](https://poser.pugx.org/hieu-le/active/v/stable.svg)](https://packagist.org/packages/hieu-le/active)
@@ -45,4 +45,4 @@ See: [How to use Active](https://www.hieule.info/tag/laravel-active/)
 
 ## Changelog:
 
-* v1.0.1 support Laravel 11
+* 1.0.3 support Laravel 12
